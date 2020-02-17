@@ -17,15 +17,15 @@ Register an account and add entries to the database to see them on the home page
 
 #### Home Page
 
-![Alt text](/screenshots/home.png?raw=true "Home Page")
+![Alt text](/wise_site/screenshots/home.png?raw=true "Home Page")
 
 #### Login Page
 
-![Alt text](/screenshots/login.png?raw=true "Login Page")
+![Alt text](/wise_site/screenshots/login.png?raw=true "Login Page")
 
 #### Admin Panel
 
-![Alt text](/screenshots/admin.png?raw=true "Admin Page")
+![Alt text](/wise_site/screenshots/admin.png?raw=true "Admin Page")
 
 
 ## Second Task
