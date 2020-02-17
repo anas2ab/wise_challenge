@@ -32,4 +32,4 @@ Register an account and add entries to the database to see them on the home page
 
 I changed the table names to foods and states, respectively. 
 
-![Alt text](/screenshots/artisan.png?raw=true "Artisan Command")
+![Alt text](/wise_site/screenshots/artisan.png?raw=true "Artisan Command")
